@@ -13,7 +13,7 @@ public class Test4 {
 		for (int l = 0; l < 4; l++) {
 			a[l] = scanner.nextInt();
 		}
-		for (int m = 0; m< 5; m++) {
+		for (int m = 0; m< 4; m++) {
 			if (a[m] >= 0) {
 
 				c1++;
